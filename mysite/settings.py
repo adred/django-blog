@@ -122,8 +122,13 @@ STATIC_URL = '/static/'
 
 
 # SMTP server
+
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'red.adaya@gmail.com'
-EMAIL_HOST_PASSWORD = 'eyereda1016m01RA'
+
+EMAIL_HOST_USER = 'radaya.dev@gmail.com'
+
+EMAIL_HOST_PASSWORD = 'a1016m01RA'
+
 EMAIL_PORT = 587
+
 EMAIL_USE_TLS = True
