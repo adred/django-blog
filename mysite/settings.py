@@ -122,7 +122,6 @@ STATIC_URL = '/static/'
 
 
 # SMTP server
-EMAIL_BACKEND = 'django_smtp_ssl.SSLEmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'red.adaya@gmail.com'
 EMAIL_HOST_PASSWORD = 'eyereda1016m01RA'
